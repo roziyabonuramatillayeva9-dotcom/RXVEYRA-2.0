@@ -1,4 +1,4 @@
-{
+package.json{
   "name": "rxveyra-2",
   "version": "1.0.0",
   "description": "RXVEYRA 2.0 plant monitoring AI MVP",
